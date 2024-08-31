@@ -72,7 +72,8 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 
 ## OUTPUT
 
-![Uploading EXP 2.1 KAVIYA_page-0001.jpg…]()
+![EXP 2 1 KAVIYA_page-0001](https://github.com/user-attachments/assets/28c26bb4-bf35-42cb-b65c-d2579f590190)
+
 
 
 ## RESULT: 
